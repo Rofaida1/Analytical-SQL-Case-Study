@@ -15,8 +15,7 @@ Champions - Loyal Customers - Potential Loyalists – Recent Customers – Promi
 Customers Needing Attention - At Risk - Cant Lose Them – Hibernating – Lost )
 
 The customers will be grouped based on 3 main values 
-• Recency => how recent the last transaction is (Hint: choose a reference date, which is 
-the most recent purchase in the dataset ) 
+• Recency => how recent the last transaction is 
 • Frequency => how many times the customer has bought from our store 
 • Monetary => how much each customer has paid for our products 
 As there are many groups for each of the R, F, and M features, there are also many potential 
