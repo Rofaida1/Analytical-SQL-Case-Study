@@ -3,9 +3,9 @@ Customers has purchasing transaction that we shall be monitoring to get intuitio
 Using SQL i'll be answering the following questions to gain useful insights.
 
 
-Q1- Using OnlineRetail dataset 
-• write at least 5 analytical SQL queries that tells a story about the data 
-• write small description about the business meaning behind each query 
+Q1- Using OnlineRetail dataset :
+- write at least 5 analytical SQL queries that tells a story about the data 
+- write small description about the business meaning behind each query 
 
 
 Q2- After exploring the data now you are required to implement a Monetary model for 
